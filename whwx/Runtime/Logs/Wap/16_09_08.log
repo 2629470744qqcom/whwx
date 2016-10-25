@@ -1,0 +1,20 @@
+[ 2016-09-08T09:50:10+08:00 ] 127.0.0.1 /whwx/index.php/Wap/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: fid D:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: fansInfo D:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 25 行.
+
+[ 2016-09-08T14:17:48+08:00 ] ::1 /Wap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: fid D:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: fansInfo D:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 25 行.
+

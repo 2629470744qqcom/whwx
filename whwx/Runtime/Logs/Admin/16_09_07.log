@@ -1,0 +1,172 @@
+[ 2016-09-07T17:42:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0080s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_complaint` WHERE ( status = 1 ) LIMIT 1   [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`desc`,`times` FROM `whwx_complaint` WHERE ( status = 1 ) ORDER BY times desc LIMIT 0,2   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `whwx_repair` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_repair` WHERE ( aid in (0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_rental_service` WHERE ( aid in (0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_wxmsg` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_wxmsg` LIMIT 1   [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_owner` WHERE ( status =1 ) LIMIT 1   [ RunTime:0.0310s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0040s ]
+SQL: SELECT c.id,c.desc,c.times,c.status FROM whwx_complaint as c,whwx_owner as o,whwx_area as a WHERE ( c.status=0 and c.aid = a.id and c.oid=o.id and a.id in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY c.times desc LIMIT 10   [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `whwx_booking` [ RunTime:0.0050s ]
+SQL: SELECT b.id,b.name,b.phone,b.day,b.hour,b.desc FROM whwx_booking as b,whwx_owner as o,whwx_area as a WHERE ( b.status=1 and b.aid = a.id and b.oid=o.id and a.id in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY b.submit_time desc LIMIT 5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_group_orders` [ RunTime:0.0050s ]
+SQL: SELECT s.order_amount,s.single_time,s.status,s.total,p.name FROM whwx_group_orders s,whwx_group_product p WHERE ( s.status=2 and s.pid=p.id and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY s.single_time desc LIMIT 5   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `whwx_count_repair` [ RunTime:0.0040s ]
+SQL: SELECT `creat_num`,`complate_num`,`handle_num`,`times` FROM `whwx_count_repair` WHERE ( aid=0 and times<20160907 and times>=20160831 ) ORDER BY times desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `whwx_count_score` [ RunTime:0.0060s ]
+SQL: SELECT sum(num) num,`score` FROM `whwx_count_score` WHERE ( aid=0 and times<20160907 and times>=20160831 ) GROUP BY score  [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T17:43:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_complaint` WHERE ( status = 1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`desc`,`times` FROM `whwx_complaint` WHERE ( status = 1 ) ORDER BY times desc LIMIT 0,2   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `whwx_repair` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_repair` WHERE ( aid in (0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_rental_service` WHERE ( aid in (0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_wxmsg` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_wxmsg` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_owner` WHERE ( status =1 ) LIMIT 1   [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0040s ]
+SQL: SELECT c.id,c.desc,c.times,c.status FROM whwx_complaint as c,whwx_owner as o,whwx_area as a WHERE ( c.status=0 and c.aid = a.id and c.oid=o.id and a.id in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY c.times desc LIMIT 10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_booking` [ RunTime:0.0030s ]
+SQL: SELECT b.id,b.name,b.phone,b.day,b.hour,b.desc FROM whwx_booking as b,whwx_owner as o,whwx_area as a WHERE ( b.status=1 and b.aid = a.id and b.oid=o.id and a.id in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY b.submit_time desc LIMIT 5   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_group_orders` [ RunTime:0.0040s ]
+SQL: SELECT s.order_amount,s.single_time,s.status,s.total,p.name FROM whwx_group_orders s,whwx_group_product p WHERE ( s.status=2 and s.pid=p.id and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY s.single_time desc LIMIT 5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_count_repair` [ RunTime:0.0030s ]
+SQL: SELECT `creat_num`,`complate_num`,`handle_num`,`times` FROM `whwx_count_repair` WHERE ( aid=0 and times<20160907 and times>=20160831 ) ORDER BY times desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_count_score` [ RunTime:0.0030s ]
+SQL: SELECT sum(num) num,`score` FROM `whwx_count_score` WHERE ( aid=0 and times<20160907 and times>=20160831 ) GROUP BY score  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T17:43:41+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T17:43:48+08:00 ] ::1 /index.php/Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T17:44:41+08:00 ] ::1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-07T17:44:50+08:00 ] ::1 /index.php/Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T17:46:29+08:00 ] ::1 /whwx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T17:46:35+08:00 ] ::1 /whwx/index.php/Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

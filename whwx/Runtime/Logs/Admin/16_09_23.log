@@ -1,0 +1,937 @@
+[ 2016-09-23T14:13:32+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0450s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:39+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:44+08:00 ] ::1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:46+08:00 ] ::1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:47+08:00 ] ::1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:47+08:00 ] ::1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:48+08:00 ] ::1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:48+08:00 ] ::1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0050s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:13:48+08:00 ] ::1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:14:45+08:00 ] ::1 /Admin/Public/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:14:45+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0060s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:15:10+08:00 ] ::1 /Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:15:10+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:15:12+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:15:40+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:15:41+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:15:58+08:00 ] ::1 /Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:16:38+08:00 ] ::1 /Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:16:48+08:00 ] ::1 /Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:16:48+08:00 ] ::1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ) ORDER BY sort desc,id asc' at line 1
+ [ SQL语句 ] : SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in () ) ORDER BY sort desc,id asc 
+
+[ 2016-09-23T14:17:37+08:00 ] 127.0.0.1 /Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.119007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-09-23T14:17:46+08:00 ] 127.0.0.1 /Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_admins` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`gid`,`pwd`,`tel` FROM `whwx_admins` WHERE ( status=1 and name="admin" ) LIMIT 1   [ RunTime:0.0780s ]
+SQL: SHOW COLUMNS FROM `whwx_group` [ RunTime:0.0020s ]
+SQL: SELECT `rules`,`aids` FROM `whwx_group` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `whwx_admins` SET `last_login_time`='1474611466',`last_login_ip`='127.0.0.1' WHERE ( id=1 ) [ RunTime:0.0340s ]
+SQL: SHOW COLUMNS FROM `whwx_admin_login_log` [ RunTime:0.0030s ]
+SQL: INSERT INTO `whwx_admin_login_log` (`name`,`times`,`ip`) VALUES ('admin','1474611466','127.0.0.1') [ RunTime:0.0720s ]
+
+[ 2016-09-23T14:17:49+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_node` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`pid`,`title`,`name`,`type` FROM `whwx_node` WHERE ( status=1 and type<2 and id in (11,13,58,59,14,69,15,60,61,62,16,70,71,72,17,73,74,75,76,77,78,6,18,79,80,81,82,83,84,19,85,86,87,88,20,89,90,91,92,214,21,93,94,95,224,5,22,96,97,98,99,100,101,102,23,24,103,104,105,106,25,107,108,109,4,26,219,27,117,210,28,110,111,112,113,114,115,116,118,211,220,233,234,29,221,222,223,226,227,228,229,230,231,232,260,3,30,119,120,121,122,123,31,124,125,126,127,32,128,2,33,129,130,131,132,34,133,134,135,1,35,136,137,138,213,36,139,140,141,37,142,143,144,38,12,39,145,146,147,40,148,149,150,41,151,152,153,42,154,155,156,7,43,157,158,159,160,161,162,44,163,164,165,45,166,167,168,169,170,171,236,237,238,239,259,240,247,248,249,241,250,251,252,242,253,254,255,243,256,257,258,244,245,246,9,49,50,51,52,225,205,67,194,195,196,65,197,198,199,63,200,201,202,64,206,207,208,209,68,54,182,183,184,55,185,186,187,56,188,189,190,235,57,191,192,193,193,8,46,172,173,174,47,175,176,177,178,48,179,180,181,10,53,66,203,204) ) ORDER BY sort desc,id asc  [ RunTime:0.0400s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0400s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_complaint` WHERE ( status = 1 ) LIMIT 1   [ RunTime:0.0790s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`desc`,`times` FROM `whwx_complaint` WHERE ( status = 1 ) ORDER BY times desc LIMIT 0,2   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `whwx_repair` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_repair` WHERE ( aid in (0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.1580s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_rental_service` WHERE ( aid in (0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `whwx_wxmsg` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_wxmsg` LIMIT 1   [ RunTime:0.0530s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_owner` WHERE ( status =1 ) LIMIT 1   [ RunTime:0.2570s ]
+SQL: SHOW COLUMNS FROM `whwx_complaint` [ RunTime:0.0040s ]
+SQL: SELECT c.id,c.desc,c.times,c.status FROM whwx_complaint as c,whwx_owner as o,whwx_area as a WHERE ( c.status=0 and c.aid = a.id and c.oid=o.id and a.id in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY c.times desc LIMIT 10   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `whwx_booking` [ RunTime:0.0020s ]
+SQL: SELECT b.id,b.name,b.phone,b.day,b.hour,b.desc FROM whwx_booking as b,whwx_owner as o,whwx_area as a WHERE ( b.status=1 and b.aid = a.id and b.oid=o.id and a.id in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY b.submit_time desc LIMIT 5   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `whwx_group_orders` [ RunTime:0.0060s ]
+SQL: SELECT s.order_amount,s.single_time,s.status,s.total,p.name FROM whwx_group_orders s,whwx_group_product p WHERE ( s.status=2 and s.pid=p.id and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY s.single_time desc LIMIT 5   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_count_repair` [ RunTime:0.0020s ]
+SQL: SELECT `creat_num`,`complate_num`,`handle_num`,`times` FROM `whwx_count_repair` WHERE ( aid=0 and times<20160923 and times>=20160916 ) ORDER BY times desc  [ RunTime:0.0410s ]
+SQL: SHOW COLUMNS FROM `whwx_count_score` [ RunTime:0.0020s ]
+SQL: SELECT sum(num) num,`score` FROM `whwx_count_score` WHERE ( aid=0 and times<20160923 and times>=20160916 ) GROUP BY score  [ RunTime:0.0240s ]
+NOTIC: [8] Undefined variable: scoreData E:\wamp\www\whwx\whwx\Admin\Controller\IndexController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-09-23T14:17:58+08:00 ] 127.0.0.1 /Admin/RentalService/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM whwx_rental_service s,whwx_owner o,whwx_area a WHERE ( s.oid=o.id and s.aid = a.id and s.aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service` [ RunTime:0.0020s ]
+SQL: SELECT s.aid,s.oid,s.sort,s.status,s.pics,s.type,s.size,s.title,s.desc,s.times,s.price,o.name,o.id as oid,a.name as area,a.id as aid,s.id FROM whwx_rental_service s,whwx_owner o,whwx_area a WHERE ( s.oid=o.id and s.aid = a.id and s.aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY times desc,sort asc LIMIT 0,12   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_area` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name` FROM `whwx_area` WHERE ( status = 1 and id in (16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: title E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 86 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 89 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 90 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 91 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 92 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 93 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 97 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 98 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:03+08:00 ] 127.0.0.1 /Admin/GroupOrders/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `whwx_group_orders` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM whwx_group_orders s,whwx_group_product p,whwx_area a,whwx_owner o WHERE ( s.pid =p.id and s.oid = o.id and s.aid = a.id and s.aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) and s.status<6 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_group_orders` [ RunTime:0.0030s ]
+SQL: SELECT s.order_amount,s.pay_amount,s.single_time,s.pay_time,s.pay_type,s.status,s.oid,s.pid,s.total,s.prix,p.name,s.id as id,a.name as area FROM whwx_group_orders s,whwx_group_product p,whwx_area a,whwx_owner o WHERE ( s.pid =p.id and s.oid = o.id and s.aid = a.id and s.aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) and s.status<6 ) ORDER BY single_time desc LIMIT 0,12   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_group_product` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name` FROM `whwx_group_product` WHERE ( status = 1 ) ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_area` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name` FROM `whwx_area` WHERE ( status = 1 and id in (16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: gname E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 81 行.
+NOTIC: [8] Undefined index: pay_type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 84 行.
+NOTIC: [8] Undefined index: pay_type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 85 行.
+NOTIC: [8] Undefined index: pay_type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 86 行.
+NOTIC: [8] Undefined index: pay_type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 87 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 91 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 92 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 93 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 94 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 95 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 96 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 97 行.
+NOTIC: [8] Undefined index: gname E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\f487230d912fb11f3d6300166a30b294.php 第 232 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.094006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:11+08:00 ] 127.0.0.1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: id E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 18 行.
+NOTIC: [8] Undefined index: nickname E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 19 行.
+NOTIC: [8] Undefined index: content E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 21 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 22 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `whwx_wxfans` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM whwx_wxfans f,whwx_wxmsg m WHERE ( m.type<>2 and m.fid=f.id ) LIMIT 1   [ RunTime:0.4970s ]
+SQL: SHOW COLUMNS FROM `whwx_wxfans` [ RunTime:0.0040s ]
+SQL: SELECT f.nickname,f.type ftype,f.oid,m.id,m.fid,m.type,m.status,m.times,m.star,m.content FROM whwx_wxfans f,whwx_wxmsg m WHERE ( m.type<>2 and m.fid=f.id ) ORDER BY m.times desc,id desc LIMIT 0,12   [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5381 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5381 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=17098 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=15019 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0240s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=15019 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=15019 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=16464 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=11110 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=11110 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5486 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5225 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=11419 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: nickname E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 84 行.
+NOTIC: [8] Undefined index: content E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 85 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 88 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 89 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:14+08:00 ] 127.0.0.1 /Admin/Wxfans/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: nickname E:\wamp\www\whwx\whwx\Admin\Controller\WxfansController.class.php 第 17 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Admin\Controller\WxfansController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `whwx_wxfans` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_wxfans` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0610s ]
+SQL: SHOW COLUMNS FROM `whwx_wxfans` [ RunTime:0.0040s ]
+SQL: SELECT `type`,`oid`,`openid`,`nickname`,`sex`,`province`,`city`,`country`,`active_time`,`subscribe_time`,`type` FROM `whwx_wxfans` WHERE ( status=1 ) ORDER BY subscribe_time desc LIMIT 0,12   [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=17109 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=17108 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=17106 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=17107 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=17105 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nickname E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 79 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 82 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 83 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 84 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 85 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 86 行.
+NOTIC: [8] Undefined index: ownerInfo E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 128 行.
+NOTIC: [8] Undefined index: ownerInfo E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 128 行.
+NOTIC: [8] Undefined index: ownerInfo E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 128 行.
+NOTIC: [8] Undefined index: ownerInfo E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 128 行.
+NOTIC: [8] Undefined index: ownerInfo E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 128 行.
+NOTIC: [8] Undefined index: ownerInfo E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 128 行.
+NOTIC: [8] Undefined index: ownerInfo E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\3c8375fc42cc08cb4f0765198928d2fe.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-23T14:18:16+08:00 ] 127.0.0.1 /Admin/Wxmsg/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: id E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 18 行.
+NOTIC: [8] Undefined index: nickname E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 19 行.
+NOTIC: [8] Undefined index: content E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 21 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 22 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Admin\Controller\WxmsgController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `whwx_wxfans` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM whwx_wxfans f,whwx_wxmsg m WHERE ( m.type<>2 and m.fid=f.id ) LIMIT 1   [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `whwx_wxfans` [ RunTime:0.0030s ]
+SQL: SELECT f.nickname,f.type ftype,f.oid,m.id,m.fid,m.type,m.status,m.times,m.star,m.content FROM whwx_wxfans f,whwx_wxmsg m WHERE ( m.type<>2 and m.fid=f.id ) ORDER BY m.times desc,id desc LIMIT 0,12   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5381 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5381 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=17098 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=15019 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=15019 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=15019 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0020s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=16464 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=11110 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0030s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=11110 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5486 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=5225 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `whwx_owner` [ RunTime:0.0040s ]
+SQL: SELECT a.name aname,o.name,o.phone,o.addr FROM whwx_owner o,whwx_area a WHERE ( o.aid=a.id and o.id=11419 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nickname E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 84 行.
+NOTIC: [8] Undefined index: content E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 85 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 88 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 89 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\05cb82f182a4f73db326f14a4e98ea3e.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:17+08:00 ] 127.0.0.1 /Admin/Wxtext/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `whwx_wxtext` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_wxtext` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_wxtext` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`keyword`,`content`,`times` FROM `whwx_wxtext` ORDER BY times desc LIMIT 0,12   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-23T14:18:22+08:00 ] 127.0.0.1 /Admin/RentalService/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM whwx_rental_service s,whwx_owner o,whwx_area a WHERE ( s.oid=o.id and s.aid = a.id and s.aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service` [ RunTime:0.0030s ]
+SQL: SELECT s.aid,s.oid,s.sort,s.status,s.pics,s.type,s.size,s.title,s.desc,s.times,s.price,o.name,o.id as oid,a.name as area,a.id as aid,s.id FROM whwx_rental_service s,whwx_owner o,whwx_area a WHERE ( s.oid=o.id and s.aid = a.id and s.aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) ORDER BY times desc,sort asc LIMIT 0,12   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_area` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name` FROM `whwx_area` WHERE ( status = 1 and id in (16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 83 行.
+NOTIC: [8] Undefined index: title E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 86 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 89 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 90 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 91 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 92 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 93 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 97 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 98 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+NOTIC: [8] Undefined index: sid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\e53834899ac0b515f50bd28d2a6fa156.php 第 139 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:23+08:00 ] 127.0.0.1 /Admin/RentalService/intention.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service_intention` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM whwx_rental_service_intention i,whwx_rental_service s,whwx_owner o,whwx_area a WHERE ( i.sid=s.id and s.oid=o.id and o.aid=a.id ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_rental_service_intention` [ RunTime:0.0020s ]
+SQL: SELECT i.id,i.sid,i.submit_time,i.phone,i.name,i.status,i.desc,s.type,s.oid,o.name as title,o.phone as ophone,a.name area FROM whwx_rental_service_intention i,whwx_rental_service s,whwx_owner o,whwx_area a WHERE ( i.sid=s.id and s.oid=o.id and o.aid=a.id ) ORDER BY submit_time desc LIMIT 0,12   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_area` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name` FROM `whwx_area` WHERE ( status = 1 and id in (16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 79 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 82 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 83 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 84 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 85 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 86 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 90 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 91 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 92 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 93 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 98 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\8d6e47670dfc3d120efb2a4b689e5025.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.103006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:26+08:00 ] 127.0.0.1 /Admin/TourLine/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `whwx_tour_line` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM whwx_tour_line l,whwx_tour_classify c,whwx_tour_merchant m WHERE ( c.id=l.cid and m.id=l.mid ) LIMIT 1   [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `whwx_tour_line` [ RunTime:0.0040s ]
+SQL: SELECT l.*,c.name cname,m.name mname FROM whwx_tour_line l,whwx_tour_classify c,whwx_tour_merchant m WHERE ( c.id=l.cid and m.id=l.mid ) ORDER BY id desc LIMIT 0,12   [ RunTime:0.0300s ]
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_tour_classify` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name` FROM `whwx_tour_classify` WHERE ( status=1 ) ORDER BY sort desc  [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 3 for Common\Controller\BaseController::getList(), called in E:\wamp\www\whwx\whwx\Admin\Controller\TourLineController.class.php on line 21 and defined E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 31 行.
+NOTIC: [2] Missing argument 4 for Common\Controller\BaseController::getList(), called in E:\wamp\www\whwx\whwx\Admin\Controller\TourLineController.class.php on line 21 and defined E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: where E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: order E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: limit E:\wamp\www\whwx\whwx\Common\Controller\BaseController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `whwx_tour_merchant` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name` FROM `whwx_tour_merchant`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 80 行.
+NOTIC: [8] Undefined index: mid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 83 行.
+NOTIC: [8] Undefined index: mid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 83 行.
+NOTIC: [8] Undefined index: mid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 83 行.
+NOTIC: [8] Undefined index: mid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 87 行.
+NOTIC: [8] Undefined index: mid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 87 行.
+NOTIC: [8] Undefined index: mid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 87 行.
+NOTIC: [8] Undefined index: mid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 87 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 91 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\1ec341365bb2dc6dbecb65ab95dfd03e.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:32+08:00 ] 127.0.0.1 /Admin/Slide/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `whwx_slide` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_slide` WHERE ( 1=1 ) LIMIT 1   [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `whwx_slide` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`sort`,`status`,`url` FROM `whwx_slide` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,12   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `whwx_area` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name` FROM `whwx_area` WHERE ( status = 1 and id in (16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 81 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: aid E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 85 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 90 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\cc0af5702dbf823094798153f375725f.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:35+08:00 ] 127.0.0.1 /Admin/BlackList/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `whwx_black_list` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_black_list` WHERE ( 1 = 1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_black_list` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`sort`,`status`,`type`,`zan` FROM `whwx_black_list` WHERE ( 1 = 1 ) ORDER BY id desc LIMIT 0,12   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\61c203afde1ae55bd35c371b63804011.php 第 81 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\61c203afde1ae55bd35c371b63804011.php 第 84 行.
+NOTIC: [8] Undefined index: status E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\61c203afde1ae55bd35c371b63804011.php 第 86 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\61c203afde1ae55bd35c371b63804011.php 第 91 行.
+NOTIC: [8] Undefined index: type E:\wamp\www\whwx\whwx\Runtime\Cache\Admin\61c203afde1ae55bd35c371b63804011.php 第 93 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:38+08:00 ] 127.0.0.1 /Admin/Plate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `whwx_plate` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `whwx_plate` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `whwx_plate` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`type`,`pic`,`link`,`sort`,`status` FROM `whwx_plate` ORDER BY sort desc,id desc LIMIT 0,12   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-23T14:18:49+08:00 ] 127.0.0.1 /Admin/About/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `whwx_warn` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`type`,`typeid` FROM `whwx_warn` WHERE ( status = 1 and aid in(0,16,15,13,12,11,10,9,8,7,6,5,4,3,2,1) ) GROUP BY type  [ RunTime:0.0060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

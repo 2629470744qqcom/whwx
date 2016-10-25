@@ -1,0 +1,30 @@
+[ 2016-10-17T15:35:17+08:00 ] ::1 /wap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: fid E:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: fansInfo E:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 25 行.
+
+[ 2016-10-17T15:36:47+08:00 ] ::1 /index.php/Wap/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: fid E:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: fansInfo E:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 25 行.
+
+[ 2016-10-17T15:36:57+08:00 ] ::1 /index.php/Wap/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: fid E:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: fansInfo E:\wamp\www\whwx\whwx\Common\Controller\WapController.class.php 第 25 行.
+
